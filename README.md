@@ -1,7 +1,9 @@
 # CIS 3902 – AI and Machine Learning
+## Assignments
+- [Linear Regression Notebook](Copy_of_Linear_Regression_Example_with_Answers.ipynb)
  
-Name: Your Name  
-Major: Your Major  
+Name: Eliza Liva Kalnina  
+Major: Business Administration with concentration in Information Systems
 Semester: Spring 2026
  
 This repository contains coursework and projects for CIS 3902.# CIS-3902-AI-ML-Eliza-Liva-Kalnina
