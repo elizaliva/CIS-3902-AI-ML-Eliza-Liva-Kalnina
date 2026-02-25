@@ -3,6 +3,7 @@
 - [Linear Regression Notebook](Copy_of_Linear_Regression_Example_with_Answers.ipynb)
 - [Reading Various Types of Files in Colab](Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb)
 - [Regularization Notebook](Copy_of_regularization.ipynb)
+- [Heart Disease Data Cleaning Notebook]
  
 Name: Eliza Liva Kalnina  
 Major: Business Administration with concentration in Information Systems
