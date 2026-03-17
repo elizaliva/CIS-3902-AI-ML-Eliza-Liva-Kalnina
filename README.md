@@ -5,8 +5,7 @@
 - [Regularization Notebook](Copy_of_regularization.ipynb)
 - [Heart Disease Data Cleaning Notebook](Data_Cleaning_Exercise_Class.ipynb)
 - [Data Cleaning Exercise](Data_Cleaning_Exercise.ipynb)
-- Copy_of_Mushroom_Reduced_Student.ipynb
-- 
+- [Copy_of_Mushroom_Reduced_Student.ipynb]
 Name: Eliza Liva Kalnina  
 Major: Business Administration with concentration in Information Systems
 Semester: Spring 2026
