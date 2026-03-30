@@ -8,7 +8,6 @@
 - [Mushroom Decision Tree Notebook](Copy_of_Mushroom_Reduced_Student.ipynb)
 - [Autoviz](Autoviz_(3).ipynb)
 
-- 
 Name: Eliza Liva Kalnina  
 Major: Business Administration with concentration in Information Systems
 Semester: Spring 2026
