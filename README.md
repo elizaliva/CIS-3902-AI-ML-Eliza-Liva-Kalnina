@@ -1,8 +1,8 @@
 # CIS 3902 – AI and Machine Learning
 ## Assignments
 
--[Open Customer Segmentation Notebook](https://github.com/elizalivia/CIS-3902-AI-ML-Eliza-Liva-Kalnina/blob/main/Customer_Segmentation_Using_Clustering.ipynb)
 - [Linear Regression Notebook](Copy_of_Linear_Regression_Example_with_Answers.ipynb)
+- [Open Customer Segmentation Notebook](Customer_Segmentation_Using_Clustering.ipynb)
 - [Reading Various Types of Files in Colab](Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb)
 - [Regularization Notebook](Copy_of_regularization.ipynb)
 - [Heart Disease Data Cleaning Notebook](Data_Cleaning_Exercise_Class.ipynb)
