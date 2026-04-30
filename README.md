@@ -1,6 +1,7 @@
 # CIS 3902 – AI and Machine Learning
 ## Assignments
 
+- [Random Forest Crime Assignment](./random_forest_crime_assignment_(1).ipynb)
 - [Linear Regression Notebook](Copy_of_Linear_Regression_Example_with_Answers.ipynb)
 - [Open Customer Segmentation Notebook](Customer_Segmentation_Using_Clustering.ipynb)
 - [Reading Various Types of Files in Colab](Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb)
